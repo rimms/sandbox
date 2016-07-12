@@ -16,7 +16,7 @@ go version go1.6.2 darwin/amd64
 ## Codes
 
 * `hello.go`
-** My first go
+  * My first go
 
 ## Reference
 
