@@ -18,6 +18,9 @@ go version go1.6.2 darwin/amd64
 * `hello.go`
   * My first go
 
+* `echo.go`
+  * Write arguments to the standard output
+
 ## Reference
 
 * http://golang.jp/go_tutorial
